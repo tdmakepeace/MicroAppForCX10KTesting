@@ -12,7 +12,7 @@ $VMsource = "Micro"
 
 $ResPool = "Demo"
 
-$DataStore = "1TBSSD3"
+$DataStore = "Gen9500gbSSD"
 
 $VmDS = 'Home_Networks'
 $VmInt1 = 'H102'
